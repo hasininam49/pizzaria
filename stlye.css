@@ -1,0 +1,20 @@
+input{
+    margin:10px;
+}
+span{
+    font-family: fantasy;
+}
+#submit{
+margin-top: 20px;
+margin-bottom:20px;
+background-color:#fc0394;
+color:azure;
+}
+#sortbutton{
+    margin-top: 20px;
+    margin-bottom:20px;
+    background-color: blue;
+    color:azure;
+    display:none;
+    }
+    
